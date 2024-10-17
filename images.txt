@@ -14,5 +14,6 @@
 #goharbor/prepare:v1.10.19
 #stilleshan/frpc:latest
 #hectorqin/reader
-node:18-slim
-caddy:latest
+#node:18-slim
+#caddy:latest
+node:12.18.3-buster-slim
