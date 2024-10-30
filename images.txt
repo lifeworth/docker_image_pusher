@@ -18,4 +18,4 @@
 #caddy:latest
 #node:12.18.3-buster-slim
 #taivokasper/omnidb:v3.0.3b-alpine_3.11
-rabbitmq
+rabbitmq:management-alpine
