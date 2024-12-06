@@ -19,4 +19,5 @@
 #node:12.18.3-buster-slim
 #taivokasper/omnidb:v3.0.3b-alpine_3.11
 #rabbitmq:management-alpine
-rabbitmq:3.8.19-management-alpine
+#rabbitmq:3.8.19-management-alpine
+duzhiyuan/roadss:latest
