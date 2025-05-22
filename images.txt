@@ -21,6 +21,6 @@
 #rabbitmq:management-alpine
 #rabbitmq:3.8.19-management-alpine
 #duzhiyuan/roadss:latest
-elasticsearch
-kibana
-logstash
+elasticsearch:latest
+kibana:latest
+logstash:latest
