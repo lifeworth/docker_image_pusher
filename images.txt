@@ -21,6 +21,6 @@
 #rabbitmq:management-alpine
 #rabbitmq:3.8.19-management-alpine
 #duzhiyuan/roadss:latest
-elasticsearch:latest
-kibana:latest
-logstash:latest
+docker.elastic.co/logstash/logstash:9.0.1
+docker.elastic.co/kibana/kibana:9.0.1
+docker.elastic.co/elasticsearch/elasticsearch:9.0.1
