@@ -26,4 +26,5 @@
 #docker.elastic.co/elasticsearch/elasticsearch:8.13.4
 #elastic/filebeat:8.13.4
 #photoprism/photoprism
-rclone/rclone
+#rclone/rclone
+minio/minio:latest
