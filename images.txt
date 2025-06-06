@@ -27,4 +27,5 @@
 #elastic/filebeat:8.13.4
 #photoprism/photoprism
 #rclone/rclone
-minio/minio:latest
+#minio/minio:latest
+openjdk:17-slim
