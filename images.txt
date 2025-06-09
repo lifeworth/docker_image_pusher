@@ -28,4 +28,5 @@
 #photoprism/photoprism
 #rclone/rclone
 #minio/minio:latest
-openjdk:17-slim
+#openjdk:17-slim
+alpine/socat
