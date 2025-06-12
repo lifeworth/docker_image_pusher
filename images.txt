@@ -29,4 +29,5 @@
 #rclone/rclone
 #minio/minio:latest
 #openjdk:17-slim
-alpine/socat
+#alpine/socat
+xiaoyaliu/glue
