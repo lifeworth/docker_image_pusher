@@ -30,4 +30,5 @@
 #minio/minio:latest
 #openjdk:17-slim
 #alpine/socat
-xiaoyaliu/glue
+#xiaoyaliu/glue
+haroldli/xiaoya-tvbox
