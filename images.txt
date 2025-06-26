@@ -31,4 +31,5 @@
 #openjdk:17-slim
 #alpine/socat
 #xiaoyaliu/glue
-haroldli/xiaoya-tvbox
+#haroldli/xiaoya-tvbox
+dreamacro/clash-meta
