@@ -32,4 +32,5 @@
 #alpine/socat
 #xiaoyaliu/glue
 #haroldli/xiaoya-tvbox
-lsposed/clash-meta
+#lsposed/clash-meta
+dreamacro/clash
