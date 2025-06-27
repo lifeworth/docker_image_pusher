@@ -34,4 +34,5 @@
 #haroldli/xiaoya-tvbox
 #lsposed/clash-meta
 #dreamacro/clash
-metacubex/mihomo:latest
+#metacubex/mihomo:latest
+haishanh/yacd:latest
