@@ -33,4 +33,5 @@
 #xiaoyaliu/glue
 #haroldli/xiaoya-tvbox
 #lsposed/clash-meta
-dreamacro/clash
+#dreamacro/clash
+metacubex/mihomo:latest
