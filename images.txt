@@ -36,4 +36,5 @@
 #dreamacro/clash
 #metacubex/mihomo:latest
 #haishanh/yacd:latest
-php:7.2.31-fpm
+#php:7.2.31-fpm
+composer:2
