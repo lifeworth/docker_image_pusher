@@ -40,4 +40,4 @@
 #composer:2
 #photoprism/photoprism:preview
 #mariadb:10.5.12
-ghcr.io/chiihero/microsoft-rewards-script:latest
+docker.io/library/node:24-slim
