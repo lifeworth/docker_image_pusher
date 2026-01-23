@@ -39,4 +39,5 @@
 #php:7.2.31-fpm
 #composer:2
 #photoprism/photoprism:preview
-mariadb:10.5.12
+#mariadb:10.5.12
+ghcr.io/chiihero/microsoft-rewards-script:latest
