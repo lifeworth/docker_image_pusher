@@ -25,7 +25,7 @@
 #docker.elastic.co/kibana/kibana:8.13.4
 #docker.elastic.co/elasticsearch/elasticsearch:8.13.4
 #elastic/filebeat:8.13.4
-#photoprism/photoprism
+#photoprism/photoprism:preview
 #rclone/rclone
 #minio/minio:latest
 #openjdk:17-slim
@@ -37,4 +37,5 @@
 #metacubex/mihomo:latest
 #haishanh/yacd:latest
 #php:7.2.31-fpm
-composer:2
+#composer:2
+photoprism/photoprism:preview
